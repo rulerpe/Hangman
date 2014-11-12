@@ -1,0 +1,12 @@
+--- !ruby/object:Game
+word: ! 'peter
+
+'
+temp_word: ! '-e-er
+
+'
+guss_word: ! 'p_t__
+
+'
+count: 6
+save: true
